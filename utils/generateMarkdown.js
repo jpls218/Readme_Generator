@@ -27,7 +27,6 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license === "NONE") return ""
   const badgeAndLink = renderLicenseBadge(license) + renderLicenseLink(license);
-  console.log(badgeAndLink);
   return `##License
   
   License of the project is ${badgeAndLink}`

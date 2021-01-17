@@ -1,10 +1,9 @@
-# as;lkfj
+# README Generator
   # Readme Generator
-  
-  ​
+
   ## Description
   ​
-  alkfj
+  Generates a README.md file
   ​
   ## Table of Contents 
   ​
@@ -24,11 +23,11 @@
   ​
   To install necessary dependencies, run the following command:
   ​
-  lajf
+  alsfj
 
   ## Usage
   ​
-  Use aslkfj to pull down this repository
+  Use aldkjf to pull down this repository
   ​
   ##License
   
@@ -36,15 +35,15 @@
     
   ## Contributing
   ​
-  asljfk
+  alskjf
   ​
   ## Tests
   ​
   To run tests, run the following command:​
 
-  alskjf
+  a;lkfj
 
   ## Questions
   ​
-  If you have any questions about the repo, open an issue or contact me directly at a;lfja. You can find more of my work at [alsfja](https://github.com/alsfja/).
+  If you have any questions about the repo, open an issue or contact me directly at email@email.com. You can find more of my work at [username](https://github.com/username/).
 
